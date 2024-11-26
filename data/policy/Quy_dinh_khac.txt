@@ -1,0 +1,5 @@
+QUY ĐỊNH KHÁC
+Confluence: Nhân viên áp dụng theo yêu cầu quy định update thông tin của trưởng phòng ban/quản lý trực tiếp và bắt buộc khi có yêu cầu. Công ty khuyến khích nhân viên chủ động sử dụng để tăng kỹ năng viết, hệ thống hóa, chia sẽ kiến thức và học hỏi lẫn nhau.
+Jira: Công cụ bắt buộc tất cả nhân viên phải sử dụng theo dõi, quản lý công việc, đồng thời có dữ liệu đánh giá KPI.
+Nhân viên khi được giao việc, cần cập nhật công việc được giao, tiến độ, trạng thái và báo cáo kèm theo công việc (nếu có) chậm nhất 48g sau khi được cấp trên giao qua Email, Zalo, Telegram, giao tiếp thông thường, …
+Trong trường hợp nhân viên không cập nhật công việc, tiến độ làm việc hoặc báo cáo kèm theo trên Jira, quản lý cần nhắc nhở nội bộ hoặc gửi email về Phòng Tổng hợp. Sau khi nhận được email nhắc nhở từ quản lý, Phòng Tổng hợp sẽ ban hành biên bản nhắc nhở từ công ty hoặc trừ KPI theo Quy chế lương.

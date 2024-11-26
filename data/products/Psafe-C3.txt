@@ -1,0 +1,94 @@
+Phần mềm Trung tâm an ninh
+
+PSafe C3 (PSafe Command Control Center): là phần mềm Quản lý an ninh tập trung tích hợp các hệ thống khác: camera, kiểm soát vào ra, báo cháy, báo động, GPS và các quy trình xử lý an ninh.
+
+    Phần mềm PSafe Command Control Center  Combat (PSafe-C3)
+
+    Là phần mềm quản lý tổng thể, tích hợp các phần mềm và hệ thống khác, hổ trợ nghiệp vụ quy trình xử lý cho các Trung tâm chỉ huy điều hành. Được phát triển và tích hợp bởi đội ngũ kỹ sư tại Việt Nam.
+
+     Phần mềm được thiết kế theo mô hình Webserver/Client, cài đặt trên server (Thường đặt ở Trung tâm giám sát tập trung, Trung tâm điều hành chỉ huy, trung tâm an ninh). Các máy trạm được cấp quyền dùng Browser truy cập vào để thực hiện các công tác nghiệp vụ: tiếp nhận các cảnh báo từ các hệ thống khác như Camera, Access control, PCCC, SOS, liên kết khai thác hiển thị hình ảnh camera…
+
+    Có các tính năng nghiệp vụ tiếp nhận cảnh báo, xác minh bằng hình ảnh camera, các tính năng tìm kiếm điều khiển thông minh, quản lý và xử lý cảnh báo, hổ trợ công tác điều hành chỉ huy xử lý vụ việc hiệu quả.
+
+Phần mềm Trung tâm an ninh
+
+ 
+Tính năng
+
+Đáp ứng
+
+Dạng ứng dụng
+
+Web application
+
+Hệ điều hành hổ trợ
+
+Windows Server 2012 hoặc cao hơn (64 bit)
+
+Tích hợp hệ thống:
+
+Hệ thống camera
+
+Hệ thống PCCC
+
+Hệ thống Access control
+
+Tích hợp quản lý vị trí trạm trên bản đồ số, quản lý thông tin vị trí các thiết bi trên sơ đồ mặt bằng trạm.
+
+Google maps hoặc Open Street Maps. Bản đồ số riêng theo yêu cầu
+
+Sơ đồ mặt bằng.
+
+Khả năng kết nối
+
+PSafe C3 Server/Client, Camera, , GPS, Thiết bị truyền tin cảnh báo cháy, Camera, các hệ thống kiểm soát vào ra, SMS Serivces, Zalo
+
+Báo động âm thanh, chớp nháy màn hình, gửi mail khi có cảnh báo. Phân loại cảnh báo:báo cháy, báo truy cập cửa trái phép, báo xâm nhập, vượt rào, , camera mất kết nối, thiết bị bị lỗi, …
+
+✔
+
+Cung cấp thông tin liên quan đến sự vụ: loại cảnh báo, vị trí, địa chỉ, thông tin liên hệ
+
+✔
+
+Liên kết camera nơi phát hiện sự vụ, chụp ảnh kèm theo tin báo
+
+✔
+
+Tìm kiếm nhanh camera liên quan đến sự vụ theo bán kính, địa chỉ, tên, khu vực trên bản đồ
+
+✔
+
+Tương tác điều khiển phần mềm PSafe-C3 VMS Client để xuất hình ảnh các camera tìm kiếm được theo nghiệp vụ lên màn hình.
+
+✔
+
+Cho phép chọn camera, chọn màn hình trước khi xuất hình ảnh lên màn hình Video wall
+
+✔
+
+Cấu hình đầu số tự động gửi tin và hình cảnh báo đến Zalo.
+
+✔
+
+Cấu hình tự động gửi tin và hình cảnh báo bằng SMS đến điện thoại di động.
+
+✔
+
+Cung cấp thông tin các lực lượng chịu trách nhiệm xử lý gần vị trí sự vụ nhất trên bản đồ số.
+
+✔
+
+Giám sát quản lý trạng thái các thiết bị: Mất kết nối, bị tác động…
+
+✔
+
+Cập nhật thông tin nhật ký xử lý vụ việc.
+
+✔
+
+Lưu trữ và truy vấn và xem lại thông tin lịch sử các vụ việc, lịch sử vận hành
+
+✔
+
+Phân quyền theo khu vực giám sát, theo chức năng giám sát hoặc chỉ huy.

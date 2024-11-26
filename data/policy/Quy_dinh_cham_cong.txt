@@ -1,0 +1,43 @@
+QUY ĐỊNH CHẤM CÔNG NGOÀI GIỜ, NGHỈ PHÉP VÀ LÀM VIỆC TỪ XA
+Thời gian áp dụng từ ngày 01/11/2022
+Chấm công ngoài giờ:
+Công cụ sử dụng: Jira 
+Project: OTS Đăng ký chấm công
+Quy trình thực hiện:
+ Tạo lịch chấm công ngoài giờ:
+Nhân sự được yêu cầu làm ngoài giờ hoặc quản lý tạo issue tại project này trong vòng 48g sau khi kết thúc công việc. Thông tin bắt buộc nhập gồm:
+Reporter
+Giờ bắt đầu
+Giờ kết thúc
+Loại chấm công
+Summary: Mô tả ngắn gọn công việc cần thực hiện
+Description: Mô tả chi tiết công việc thực hiện
+Tên dự án
+Link: Liên kết với project hoặc issue đang thực hiện ở task công việc được giao.
+Duyệt chấm công: Người duyệt là quản lý (Reporter)
+Kiểm tra và chỉnh lại giờ kết thúc nếu có thay đổi.
+Chuyển trạng thái To do thành Done.
+Quy định chung:
+Chấm công tăng ca nếu tạo sau 48g kể từ thời điểm kết thức công việc sẽ không được tính lương làm ngoài giờ. Trừ trường hợp bất khả kháng như server bị lỗi không vào được và cần gửi email xác thực và tạo lại sau.
+Lương tăng ca chỉ được tính khi trạng thái Done.
+Trong trường hợp tên dự án/ mã dự án chưa được cập nhật cần liên hệ quản trị viên để thêm trước khi tạo lịch chấm công.
+Nghỉ phép và làm việc từ xa.
+Công cụ sử dụng: Jira 
+Project: OTS Đăng ký nghỉ phép và làm việc từ xa
+Quy trình thực hiện:
+ Tạo lịch nghỉ phép hoặc làm việc từ xa
+Nhân sự tạo lịch tại project này gồm những thông tin sau:
+Reporter
+Loại nghỉ phép: Nghỉ phép hoặc làm việc từ xa (WFH)
+Summary: Loại từ ngày đến ngày
+Start date
+End date
+Duyệt lịch nghỉ và làm việc từ xa: Người duyệt là quản lý (Reporter)
+Kiểm tra và chỉnh lại ngày kết thúc nếu có thay đổi.
+Chuyển trạng thái To do thành Done.
+Quy định chung:
+Nghỉ phép dài ngày từ 3 ngày trở lên hoặc đã có kế hoạch nghỉ phép cần xin phép trước ngày nghỉ 10 ngày và tạo lịch nghỉ trên Jira. Ngoài ra, nhân viên phải có kế hoạch xử lý công việc trong thời gian nghỉ phép và có người liên hệ để xử lý công việc trong thời gian vắng mặt.
+Nghỉ phép có lương chỉ được tính khi trạng thái Done. Trong trường hợp có đăng ký nghỉ phép mà trạng thái chưa chuyển Done sẽ bị trừ lương tương ứng với số ngày nghỉ.
+Nghỉ do ốm đột xuất cần báo cho quản lý qua Email, Zalo hoặc Telegram trong ngày nghỉ và bổ sung lịch nghỉ trên Jira trong vòng 48g sau khi đi làm lại.
+Làm việc từ xa cần báo cho quản lý duyệt và tạo lịch trên Jira trong vòng 24g trước ngày đầu tiên làm việc từ xa.
+Làm việc từ xa (WFH): Vẫn tính là ngày công bình thường trong trường hợp nhân sự đảm bảo khối lượng và chất lượng công việc của ngày đó. Có kiểm tra lại tương tác trên Jira.

@@ -1,0 +1,58 @@
+Phần mềm Kiểm soát vào ra
+
+PSafe ACS (PSafe Access Control Software) là Phần mềm IoT tích hợp nhiều loại thiết bị của các hãng khác nhau, phục vụ Quản lý kiểm soát tự động người và phương tiện vào ra cổng và các khu vực trọng yếu với quy trình nghiệp vụ quản lý chuyên nghiệp.
+
+1. GIỚI THIỆU GIẢI PHÁP PSAFE-ACS
+Giải pháp kiểm soát người và phương tiện ra vào tự động PSAFE-ACS do OTS tự xây dựng và phát triển từ năm 2017, đến nay đã hoàn thiện về kỹ thuật và các quy trình kiểm soát. Giải pháp cung cấp các phương án quản lý an ninh vào ra hiệu quả cho các đơn vị cảng, kho bãi, nhà máy.
+
+Giải pháp PSAFE-ACS đang được OTS triển khai cho rất nhiều đơn vị lớn như: cảng Tân Cảng Cát Lái, cảng ICD Sóng Thần, cảng ICD Long Bình…
+
+2. NGUYÊN LÝ HOẠT ĐỘNG HỆ THỐNG
+Giải pháp PSAFE-ACS hoạt động dựa trên nền tảng core phần mềm PSAFE_ACS do chính OTS thiết kế và phát triển, có thể kết nối tất cả các thiết bị kiểm soát an ninh vào ra.
+
+Sơ đồ kết nối hệ thống:
+
+so-do-ket-noi
+
+Mô hình quản lý tổng thể:
+
+so-do-tong-the
+
+3. ƯU ĐIỂM NỔI BẬT CỦA PHẦN MỀM PSafe ACS
+a. Quản lý nhiều loại đối tượng, phương tiện vào ra
+Có các phương án kiểm soát cho từng loại đối tượng vào ra cổng như: nhân viên, khách thường xuyên, khách vãng lai, thời vụ, đội thi công dự án… Tùy vào mỗi loại đối tượng có thể kiểm soát vào ra bằng sinh trắc học (khuôn mặt, mống mắt, vân tay), QR code, nhận diện biển số, thẻ từ, NFC di động…
+Có phương án kiểm soát riêng cho từng loại phương tiện như: đi bộ, xe máy, ô tô, xe tải, container…
+b. Quản lý đăng ký vào ra trực tuyến và tại chỗ
+
+Hỗ trợ phương án đăng ký vào ra tại chỗ với đầy đủ thông tin an ninh như: scan giấy tờ tùy thân, chụp hình mặt khi đăng ký, hỗ trợ tự động load nhanh thông tin người đã từng đăng ký (autocomplete mã giấy tờ, QR code, khuôn mặt, CCCD)
+Hỗ trợ phương án đăng ký từ xa qua app di động, website.
+Hỗ trợ sử dụng app kiểm duyệt các khách hàng đăng ký online, cấp phép vào cổng từ xa qua app mà không cần đến đăng ký tại chỗ
+c. Phần mềm có thể điều chỉnh linh động theo yêu cầu riêng
+Phần mềm do OTS tự phát triển nên có thể điều chỉnh linh động tính năng theo nhu cầu
+Có thể dễ dàng bổ sung các quy định, ràng buộc vào ra theo yêu cầu
+d. Khả năng tích hợp nhiều loại thiệt bị, camera, đầu đọc
+Hệ thống có thể tích hợp nhiều loại thiết bị kiểm soát vào ra trên thị trường
+Có khả năng tích hợp các thiết bị sẵn có của khách hàng mà không cần thay mới toàn bộ, giúp giảm chi phí đầu tư
+e. Kiểm soát toàn diện tới các khu vực bên trong cổng
+Có thể mở rộng kiểm soát đến các kho, nhà xưởng bên trong. Ghi nhận thông tin xe/người vào các khu vực bên trong cổng
+Giải pháp kiểm soát vào ra các khu trọng yếu trong tòa nhà như: phòng server, trung tâm an ninh, phòng lưu trữ, khu vực tầng làm việc…
+f. Khả năng đồng bộ phân tán giúp hệ thống hoạt động độc lập
+Giải pháp cung cấp phương án đồng bộ đặc biệt hiệu quả, giúp cho các máy trạm tại từng khu vực cổng có thể hoạt động độc lập, đồng thời vẫn liên thông được với các máy tại khu vực khác.
+Dữ liệu đồng bộ ổn định liên tục, có các cơ chế tự động backup và restore theo lịch định kỳ hoặc theo kịch bản
+g. Ghi nhận tự động và cảnh báo các hành vi ngoại lệ
+Ghi nhận và cảnh báo tự động tất cả các hành vi mở barrier bằng tay, có kèm hình ảnh
+Hỗ trợ tính năng đếm xe qua cổng để so sánh đối chiếu các trường hợp xe vào ra không qua hệ thống kiểm soát, hạn chế gian lận trong thu phí
+Ghi nhận log tất cả thao tác người dùng trên hệ thống phần mềm, hỗ trợ truy vết các trường hợp xử lý sai qui định
+h. Kiểm soát tính phí, thu phí linh động
+Hỗ trợ tính phí xe vào ra cổng, bãi xe theo block giờ linh động, theo ca…
+Hỗ trợ các phương án thu phí tháng, trừ tiền theo số lần sử dụng…
+i. Tích hợp các giải pháp tự động nhận diện: biển số, giấy tờ, số hiệu container…
+Khả năng nhận diện biển số chính xác lên đến >95%, thời gian nhận diện không quá 1s
+Có tích hợp các module nhận diện số hiệu container với độ chính xác cao
+Tích hợp module OCR cho phép nhận diện thông tin trên thẻ CCCD, CMND, bằng lái, hỗ trợ việc đăng ký nhanh chóng mà không cần nhập liệu bằng tay
+k. Khả năng kết nối các phần mềm, hệ thống khác
+Phần mềm PSAFE-ACS do OTS tự phát triển nên có thể tích hợp tất cả các phần mềm của bên thứ 3, thông qua các giao tiếp tiêu chuẩn như web API, JSON,XML…
+Đã tích hợp với các phần mềm quản lý logistic, chấm công…
+i. Xem báo cáo report tại bất kỳ đâu thông qua website
+Hệ thống báo cáo report được triển khai trên website, giúp người quản lý có thể xem thông tin báo cáo tại bất kì đâu
+Dữ liệu vào ra sẽ được cập nhật liên tục và được thể hiện dưới dạng biểu đồ trực quan, giúp người quản lý dễ dàng đánh giá tình trạng, lưu lượng xe trong ngày, tuần, tháng

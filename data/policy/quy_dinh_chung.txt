@@ -1,0 +1,48 @@
+Để thuận tiện trong quá trình làm việc và quản lý công việc. Công ty đã đầu tư các công cụ có thể giúp toàn bộ nhân viên có không gian làm việc và tương tác từ xa, gồm:
+Confluence: Không gian tương tác, làm việc chung và lưu trữ tài liệu. Các bộ phận sẽ sử dụng tùy thuộc và nhu cầu và yêu cầu công việc.
+Jira: Giao việc và quản lý công việc. Đây là công cụ bắt buộc tất cả nhân sự phải sử dụng để có dữ liệu đánh giá KPI 6 tháng và xét tăng lương.
+Công ty xin thông báo quy định về thông tin trao đổi trên các công cụ này như sau:
+QUY ĐỊNH CHUNG
+Phòng Kinh doanh & Giải pháp:
+Confluence:
+Nội bộ:
+Không gian lưu trữ, làm việc nhóm giúp dễ dàng tổng hợp, chia sẻ, nắm bắt thông tin.
+Quản lý tài liệu, dữ liệu dự án.
+Quản lý tiến trình và lịch sử dự án, công việc (dự án dài hơi).
+Chia sẻ với phòng / bộ phận khác:
+Chia sẻ tài liệu, thông tin dự án, sản phẩm với toàn Công ty.
+Chia sẻ kiến thức, kinh nghiệm.
+Cập nhật xu hướng công nghệ, định hướng phát triển sản phẩm, giải pháp.
+Chia sẻ tầm nhìn và triết lý phát triển đội ngũ, công ty.
+Jira:
+Quản lý đầu việc, giao việc.
+Quản lý quy trình, tiến trình xử lý công việc.
+Cải tiến phương thức và hiệu suất làm việc.
+Thống kê, báo cáo, theo dõi công việc cá nhân, bộ phận.
+Phòng Phần mềm:
+Confluence:
+Nội bộ:
+Chia sẻ tài liệu đào tạo nội bộ.
+Chia sẻ kiến thức, kinh nghiệm
+Quản lý tài liệu dự án.
+Chia sẻ với phòng / bộ phận khác:
+Chia sẻ tài liệu của Phòng để công ty tham khảo.
+Chia sẻ thông tin sản phẩm. Bao gồm: HDSD, kiến trúc, release
+Chia sẻ kiến thức, kinh nghiệm
+Quản lý tài liệu dự án chung của công ty.
+Jira:
+Quản lý, theo dõi tiến độ của dự án 
+Quản lý lỗi, tính năng, công việc, những cải tiến trong công việc
+Quản lý quy trình làm việc tương thích với yêu cầu của từng dự án 
+Thống kê, báo cáo công việc.
+Phòng Tổng Hợp:
+Confluence: 
+Nội bộ: 
+Đào tạo nội bộ phòng tổng hợp.
+Quy định công việc, báo cáo, tiêu chuẩn chất lượng công việc của nhân viên phòng tổng hợp. 
+Chia sẻ với phòng / bộ phận khác:
+Thông báo và quy định chung của công ty.
+Biên bản họp tháng.
+Hoạt động chung của công ty.
+Jira: 
+Giao việc và theo dõi công việc có tính chất định kỳ hoặc phát sinh theo hoạt động công ty, theo mục tiêu công việc từng giai đoạn, cần thời gian thực hiện nhiều hơn 20 phút và cần phối hợp với nhiều bộ phận. Có thể loại trừ những việc giấy tờ, văn phòng có thời gian thực hiện công việc dưới 20 phút. Nhưng vẫn khuyến khích theo dõi công việc nhiều nhất có thể để kiểm soát khối lượng công việc.
