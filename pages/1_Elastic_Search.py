@@ -26,7 +26,7 @@ if prompt:
     #store message
     st.session_state.messages.append({'role':'user','content':prompt})  
     try:
-        response = get_par(prompt,)
+        response = get_par(prompt)
         st.chat_message('assistant').markdown(response)
         #store message
         st.session_state.messages.append({'role':'assistant','content':response})  
